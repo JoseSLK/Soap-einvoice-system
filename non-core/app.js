@@ -2,7 +2,7 @@
    E-Invoice System UI - Vanilla JS */
 
 // Configuration
-const SOAP_URL = 'http://localhost:8080/ws';
+const SOAP_URL = 'https://soap-einvoice-system-latest.onrender.com/ws';
 const SOAP_NS = 'http://einvoice.com/soap/gen';
 
 // State
